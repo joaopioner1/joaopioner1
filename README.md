@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hello world 👋
 
+- 📝 I'm learnig how to code.
+- 💪 I'm working on my own projects.
+- 🎓 I usually use https://www.udemy.com/ to study.
+- 🎮 I love games.
+- 🌎 I live in Brazil.
 <!--
 **joaopioner1/joaopioner1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
