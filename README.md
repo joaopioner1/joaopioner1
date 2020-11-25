@@ -6,6 +6,7 @@
 - 🎮 I love games;
 - 🌎 I live in Brazil;
 - 😂 I don't know how to read documentation;
+- ...........................................
 <!--
 **joaopioner1/joaopioner1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
