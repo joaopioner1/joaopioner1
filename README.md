@@ -1,6 +1,6 @@
 ### Hello world 👋
 
-- 📝 I'm learnig how to code, online;
+- 📝 I'm learnig how to code;
 - 💪 I'm working on my own projects;
 - 🎓 I usually use https://www.udemy.com/ to study;
 - 🎮 I love games;
