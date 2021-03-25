@@ -5,8 +5,7 @@
 - 🎓 I usually use https://www.udemy.com/ to study;
 - 🎮 I love games;
 - 🌎 I live in Brazil;
-- 😂 I don't know how to read documentation;
-- ...........................................
+- 😂 I am really trying to learn how to use documentation;
 <!--
 **joaopioner1/joaopioner1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
