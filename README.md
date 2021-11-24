@@ -1,11 +1,8 @@
 ### Hello world 👋
 
-- 📝 I'm learnig how to code;
-- 💪 I'm working on my own projects;
-- 🎓 I usually use https://www.udemy.com/ to study;
-- 🎮 I love games;
-- 🌎 I live in Brazil;
-- 😂 I am really trying to learn how to use documentation;
+- I am into a project called windmaker.edu in IFRS.
+- My experience is based on Java, DB, CSS, HTML and a little bit of JS.
+- Always trying to do my best!
 <!--
 **joaopioner1/joaopioner1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
