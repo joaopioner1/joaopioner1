@@ -1,7 +1,6 @@
 ### Hello world 👋
 
-- I am into a project called windmaker.edu in IFRS.
-- My experience is based on Java, DB, CSS, HTML and a little bit of JS.
+- My experience is based on Java, PostgreSQL, CSS, HTML and a little bit of JS.
 - Always trying to do my best!
 <!--
 **joaopioner1/joaopioner1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
